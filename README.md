@@ -109,10 +109,9 @@
 <br>
 
 # The Declaration of Independence
-科技发展到何种程度？世界权力分布、斗争几何？未来社会是怎样的？
-“The Declaration of Independence” 都照亮人性的光辉·永垂。
-在此以其video clip作为结束。
-[The Declaration of Independence](https://github.com/abaelhe/TheTruthOfRecentYears/raw/refs/heads/main/%E4%B8%8D%E4%BC%9A%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%8D%90%E8%B5%A0%E7%BE%8E%E6%96%B9%E6%8C%81%E7%BE%8E%E5%85%83%E6%9C%89Princeton%E7%9A%84%E6%94%BF%E6%B2%BB%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%AE%AA%E6%B3%95%E4%B9%A6%E8%BF%98%E5%8F%82%E4%B8%8E%E8%BF%87%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%A6%86%E6%B4%BB%E5%8A%A8%E5%B9%B6%E4%B8%8E%E7%BE%8E%E5%AE%98%E5%91%98%E5%90%88%E5%BD%B1/DECLARATION%20OF%20INDEPENDENCE.mp4)
+科技发展到何种程度？世界权力分布、斗争几何？未来社会是怎样？
+<br>“The Declaration of Independence” 都照亮人性的光辉·永垂不朽。
+<br>在此以其video clip作为结束。[The Declaration of Independence](https://github.com/abaelhe/TheTruthOfRecentYears/raw/refs/heads/main/%E4%B8%8D%E4%BC%9A%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%8D%90%E8%B5%A0%E7%BE%8E%E6%96%B9%E6%8C%81%E7%BE%8E%E5%85%83%E6%9C%89Princeton%E7%9A%84%E6%94%BF%E6%B2%BB%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%AE%AA%E6%B3%95%E4%B9%A6%E8%BF%98%E5%8F%82%E4%B8%8E%E8%BF%87%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%A6%86%E6%B4%BB%E5%8A%A8%E5%B9%B6%E4%B8%8E%E7%BE%8E%E5%AE%98%E5%91%98%E5%90%88%E5%BD%B1/DECLARATION%20OF%20INDEPENDENCE.mp4)
 
 <br>
 
