@@ -138,9 +138,9 @@
 <br>
 
 # $\large \text{隐私声明}$
-* All Rights Reserved. 所有权利保留。
+* 保留所有权利。
 * 如果涉及"隐私"的部分，仅作"证明属实之用"。
-* 观众和访问者(包括自动化程序和装置)、获得者请"阅后即焚"，不得留存、复制、转发 或 改变原有的用途。
+* 观众和访问者(包括自动化程序和装置)、获得者请"阅后即焚"，不得以任何形式或任何意思进行留存、复制、电子化、拍照、转发 或 改变原有的用途。
 * 其他如有不当，请联系本人删改。
 
 <br>
@@ -152,3 +152,9 @@
 
 <br>
 
+# Declaration of Rights:
+All Rights Reserved.
+No part of this repository may be reproduced, stored in a retrieval system,
+or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, scanning.
+
+<br>
